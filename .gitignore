@@ -1,0 +1,6 @@
+/dist
+node_modules
+*.log
+/.idea
+
+/.idea/CarPass-UI-V1.iml
